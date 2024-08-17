@@ -11,12 +11,11 @@ function App() {
   return (
     <div className="App">
       {/* <Login/> */}
-      {/* <Sidebar/>
+      <Sidebar/>
       <div id='content'>
         <Navbar/>
         <MainContent/>
-      </div> */}
-      <Dashboard/>
+      </div>
     </div>
   );
 }
